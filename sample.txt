@@ -1,1 +1,4 @@
-this is a sampel file changed made by dev2 Ubuntu.
+this is a sampel file changed made by dev2 Ubuntu
+
+new line new file`:wq
+.
